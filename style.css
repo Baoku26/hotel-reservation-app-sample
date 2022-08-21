@@ -40,7 +40,7 @@ body{
 .signup a{
 	text-decoration: none;	
 	color: white;
-	font-family: roboto;
+	font-family: roboto, sans-serif;
 	border: 1px white solid;
 	border-radius: 1.5em;
 	padding: 10px 20px;
@@ -117,7 +117,7 @@ body{
 
 .day{
 	font-size: 70px;
-	font-family: roboto;
+	font-family: roboto, sans-serif;
 	font-weight: lighter;
 }
 
@@ -149,7 +149,7 @@ body{
 
 .count-no{
 	font-size: 70px;
-	font-family: arial ;
+	font-family: arial, sans-serif ;
 	font-weight: lighter;
 	margin: 0 7%;
 }
@@ -762,7 +762,7 @@ footer{
 
 	.count-no{
 		font-size: 40px;
-		font-family: roboto;
+		font-family: roboto, sans-serif ;
 		font-weight: lighter;
 		margin: 0 13%;
 	}
@@ -805,7 +805,7 @@ footer{
 		text-decoration: none;
 		color: white;
 		font-size: 15px;
-		font-family: roboto;
+		font-family: roboto, sans-serif;
 	}
 
 	.desk-nav li a:hover{
