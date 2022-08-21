@@ -2,10 +2,10 @@
 	margin: 0;
 	padding: 0;
 }
-body{
+/*body{
 	margin: 0;
 	overflow-x: hidden;
-}
+}*/
 
 .hide-mobile{
 	display: none;
@@ -28,14 +28,7 @@ body{
 	align-items: center;
 	top: 0;
 	margin: 0% 5%;
-
 }
-
-.logo-nav p{
-	color: white;
-	font-size:40px ;
-}
-
 
 .signup a{
 	text-decoration: none;	
@@ -483,7 +476,7 @@ body{
 }
 
 .best-price{
-	width: 47%;
+	width: 35%;
 	padding: 2%;
 	border-radius: 1em;
 	box-shadow: -2px 4px 8px 0 gray;
@@ -496,7 +489,7 @@ body{
 }
 
 .cancellation{
-	width: 40%;
+	width: 50%;
 	padding: 2%;
 	border-radius: 1em;
 	box-shadow: 2px 4px 8px 0 gray;
